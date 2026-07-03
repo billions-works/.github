@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/280010342?s=256&v=4" alt="Billions logo" width="128" height="128">
 </p>
 
-# Billions
+# Billions.works
 
 Billions is a regulated stablecoin payment gateway for businesses that want to accept stablecoin payments and settle in fiat.
 
